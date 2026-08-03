@@ -22,21 +22,33 @@ DBMS (Database Management System) is software that helps users create, store, ma
 Store data in databases
 Add new data
 Update existing data
+Delete data
+Retrieve data quickly
+Provide security and backup
+
+
 
 SQL commands are mainly divided into 5 categories:
 
 Category	Full Form	Purpose	Examples
-DDL	Data Definition Language	Defines database structure	CREATE, ALTER, DROP, TRUNCATE
-DML	Data Manipulation Language	Manipulates data in tables	INSERT, UPDATE, DELETE
-DQL	Data Query Language	Retrieves data	SELECT
-DCL	Data Control Language	Controls user permissions	GRANT, REVOKE
-TCL	Transaction Control Language	Manages transactions	COMMIT, ROLLBACK, SAVEPOINT
+DDL -	Data Definition Language	-	CREATE, ALTER, DROP, TRUNCATE
+DML - 	Data Manipulation Language	-	INSERT, UPDATE, DELETE
+DQL -	Data Query Language - SELECT, FROM, WHERE, GROUPBY, HAVING, ORDER BY, LIMIT
+DCL- Data Control Language	-	GRANT, REVOKE
+TCL - Transaction Control Language	COMMIT, ROLLBACK, SAVEPOINT
+
+1. CREATE TABLE
+
+Creates a new table.
+
+CREATE TABLE Student (
+    StudentID INT PRIMARY KEY,
+    Name VARCHAR(50),
+    Age INT
+);
 
 
 
 
 
 
-Delete data
-Retrieve data quickly
-Provide security and backup
