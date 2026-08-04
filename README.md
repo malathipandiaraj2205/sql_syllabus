@@ -51,14 +51,14 @@ Adds, modifies, or deletes columns.
 
 Deletes the table permanently.
 
-
-DROP TABLE Employee;
+<img width="196" height="28" alt="{998CC7D2-E3D7-4D7B-B075-D2BE4312C8AF}" src="https://github.com/user-attachments/assets/6c3add11-0f19-407e-948c-47504154a415" />
 
 **4. TRUNCATE**
 
 Removes all records but keeps the table structure.
 
-TRUNCATE TABLE Employee;
+<img width="232" height="42" alt="{436486D4-8DD3-4274-8B8E-E28767E4EBEB}" src="https://github.com/user-attachments/assets/f39d5008-b9d3-4571-8352-eac46a1f6b60" />
+
 
 **DML (Data Manipulation Language)**
 
