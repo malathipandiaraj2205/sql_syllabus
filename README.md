@@ -40,7 +40,7 @@ DBMS is software that helps users create, store, manage, and retrieve data effic
     4     DCL         Data Control Language		             GRANT, REVOKE
     5     TCL         Transaction Control Language	       COMMIT, ROLLBACK, SAVEPOINT
 
-## DDL (Data Definition Language): 
+1. ## DDL (Data Definition Language): 
 
 DDL is a category of SQL commands used to define and modify the structure of database objects such as tables, views, and schemas.
 
@@ -82,7 +82,7 @@ Removes all records but keeps the table structure.
 <img width="232" height="42" alt="{436486D4-8DD3-4274-8B8E-E28767E4EBEB}" src="https://github.com/user-attachments/assets/f39d5008-b9d3-4571-8352-eac46a1f6b60" />
 
 
-**DML (Data Manipulation Language)**
+2.## DML (Data Manipulation Language)
 
 DML commands are used to insert, update, delete, and retrieve data from tables.
 
@@ -142,7 +142,7 @@ Verify the Deletion:
 
 SELECT * FROM employees;
 
-## DCL (Data Control Language) :
+3. ## DCL (Data Control Language) :
 
 DCL commands are used to control user access and permissions in a database.
 
@@ -175,7 +175,7 @@ FROM user_name;
 
 <img width="140" height="82" alt="{847DB36A-C51C-4980-BCFD-8EAF1807D593}" src="https://github.com/user-attachments/assets/9e5c6fdc-56eb-4a42-9361-abe1a00e677a" />
 
-TCL (Transaction Control Language) Command:
+4. ## TCL (Transaction Control Language) Command:
 
 TCL commands are used to manage transactions in a database.
 
@@ -218,8 +218,12 @@ SAVEPOINT savepoint_name;
 
 <img width="390" height="64" alt="{0529A867-1869-411F-A98B-5F7F230844FC}" src="https://github.com/user-attachments/assets/44a82aa2-7040-4635-863f-c1a862bf28f8" />
 
+5. ## DQL (Data Query Language):
 
+DQL is used to retrieve (fetch) data from a database.
 
+SELECT
 
+Syntax
 
 
