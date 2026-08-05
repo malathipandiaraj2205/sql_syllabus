@@ -224,6 +224,35 @@ DQL is used to retrieve (fetch) data from a database.
 
 SELECT
 
+The SELECT command in SQL is used to retrieve data from one or more tables in a database.
+
 Syntax
+
+<img width="272" height="79" alt="{5EA0A7D0-B0BE-4174-8301-2846EFC33B34}" src="https://github.com/user-attachments/assets/a3c01138-41d5-4587-8837-3e524de41393" />
+
+Examples
+
+1. ## Select all columns
+
+syntex
+
+SELECT * FROM Employees;
+
+
+Example:
+
+<img width="501" height="252" alt="{85FC4226-62B8-439D-85CD-D37352E984EC}" src="https://github.com/user-attachments/assets/b1630e3a-75f6-4606-94a5-b22288e97ed4" />
+
+2. ## Select specific columns
+
+
+syntex
+
+SELECT EmployeeID, Name, Salary
+FROM Employees;
+
+Example:
+
+
 
 
