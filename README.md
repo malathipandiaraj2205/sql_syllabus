@@ -53,7 +53,6 @@ DDL Commands
        RENAME	                       Changes the name of a database object
 
     
-
 ## CREATE: 
 
 The CREATE command is used to create a new database object such as a table, database, view, or index.
@@ -168,6 +167,12 @@ TO user_name;
 
 The REVOKE command is used to remove permissions (privileges) that were previously granted to a user.
 
+Syntax
+
+REVOKE privilege_name
+ON table_name
+FROM user_name;
+
 <img width="140" height="82" alt="{847DB36A-C51C-4980-BCFD-8EAF1807D593}" src="https://github.com/user-attachments/assets/9e5c6fdc-56eb-4a42-9361-abe1a00e677a" />
 
 TCL (Transaction Control Language) Command:
@@ -186,17 +191,29 @@ TCL Commands
 
 Saves all changes permanently.
 
+Syntex
+
+COMMIT;
+
 <img width="332" height="89" alt="{714F2E65-37AE-4CAE-B166-A4171EE6E50F}" src="https://github.com/user-attachments/assets/1f572e3b-4874-4457-af01-9528cb06e458" />
 
 ## ROLLBACK:
 
-Undoes changes that have not been committed
+The ROLLBACK command is a TCL (Transaction Control Language) command used to undo changes made during the current transaction before a COMMIT is issued.
+
+Syntax
+
+ROLLBACK;
 
 <img width="184" height="112" alt="{34A16BBD-06AD-4870-A507-02ED5A0D7DE6}" src="https://github.com/user-attachments/assets/7d5ed722-dad5-4103-a59c-c00d3beaccd4" />
 
 ## SAVEPOINT:
 
-Creates a savepoint within a transaction.
+The SAVEPOINT command is a TCL (Transaction Control Language) command used to create a point within a transaction. You can later roll back to that point without undoing the entire transaction.
+
+Syntax
+
+SAVEPOINT savepoint_name;
 
 <img width="390" height="64" alt="{0529A867-1869-411F-A98B-5F7F230844FC}" src="https://github.com/user-attachments/assets/44a82aa2-7040-4635-863f-c1a862bf28f8" />
 
