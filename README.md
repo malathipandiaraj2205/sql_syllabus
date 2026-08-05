@@ -118,19 +118,30 @@ WHERE condition;
 
 Example:
 
-<img width="152" height="65" alt="{DE14ED53-9427-4989-8A48-0026B56CE307}" src="https://github.com/user-attachments/assets/33b70bfd-6ea8-4fcd-8f8d-dcb1844147a6" />
+<img width="170" height="80" alt="{DBE0B2B7-4A44-437A-8ABD-72122BD58E29}" src="https://github.com/user-attachments/assets/d35abed5-e94f-41e4-a16e-0ccd6e29cf60" />
 
 ## DELETE:
 
 The DELETE command is used to remove records (rows) from a table.
 
-Syntax
+# Syntax
 
 DELETE FROM Student
 WHERE Student_ID = 101;
 
-<img width="206" height="54" alt="{B0D4BDFC-F174-4497-81B9-DB6306D06AE2}" src="https://github.com/user-attachments/assets/c9d93c33-7c5e-4e03-8d8a-5bdef19d2013" />
+Example 1: Delete a Specific Employee
 
+<img width="157" height="52" alt="{E4ED2EA7-C551-42D7-90F6-3A5290CCCAAE}" src="https://github.com/user-attachments/assets/961831bc-0885-4349-a513-0b2a643443b3" />
+
+Example 2: Delete All Records from Employees Table
+
+# Syntax
+
+DELETE FROM employees;
+
+Verify the Deletion:
+
+SELECT * FROM employees;
 
 ## DCL (Data Control Language) :
 
@@ -143,6 +154,12 @@ DCL commands are used to control user access and permissions in a database.
  ## GRANT:
 
 The GRANT command is used to give permissions (privileges) to a user on database objects such as tables.
+
+Syntax
+
+GRANT privilege_name
+ON table_name
+TO user_name;
 
 <img width="139" height="75" alt="{32F91343-3F05-47C3-9421-DCCAEE91FE58}" src="https://github.com/user-attachments/assets/365a0a04-91a9-4f75-98f8-5ec3b2d5fc2f" />
 
