@@ -108,10 +108,26 @@ Example:
 
 ## UPDATE:
 
+The UPDATE command is used to modify existing records in a table.
+
+Syntax
+
+UPDATE table_name
+SET column1 = value1, column2 = value2
+WHERE condition;
+
+Example:
+
 <img width="152" height="65" alt="{DE14ED53-9427-4989-8A48-0026B56CE307}" src="https://github.com/user-attachments/assets/33b70bfd-6ea8-4fcd-8f8d-dcb1844147a6" />
 
 ## DELETE:
-DELETE FROM Employee
+
+The DELETE command is used to remove records (rows) from a table.
+
+Syntax
+
+DELETE FROM Student
+WHERE Student_ID = 101;
 
 <img width="206" height="54" alt="{B0D4BDFC-F174-4497-81B9-DB6306D06AE2}" src="https://github.com/user-attachments/assets/c9d93c33-7c5e-4e03-8d8a-5bdef19d2013" />
 
