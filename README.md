@@ -205,7 +205,8 @@ Syntax
 
 ROLLBACK;
 
-<img width="184" height="112" alt="{34A16BBD-06AD-4870-A507-02ED5A0D7DE6}" src="https://github.com/user-attachments/assets/7d5ed722-dad5-4103-a59c-c00d3beaccd4" />
+<img width="182" height="90" alt="{BE03AFE0-A07D-4B82-B001-FF9EDBA01E07}" src="https://github.com/user-attachments/assets/b583c626-9dcb-4ba7-8a06-cb7a3cf00e1a" />
+
 
 ## SAVEPOINT:
 
