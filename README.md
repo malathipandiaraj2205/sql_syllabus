@@ -346,7 +346,8 @@ Counts the number of records.
 
 Syntex:
 
-![Uploading {D9AB156B-A94F-4831-A227-1D0DC631D791}.png…]()
+<img width="329" height="50" alt="{A3C4A472-0DA7-4A98-9635-6EEF95EDE964}" src="https://github.com/user-attachments/assets/8f2844d9-2652-427e-8f19-7e17bd5f5b54" />
+
 
 Example:
 
