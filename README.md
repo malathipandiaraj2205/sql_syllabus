@@ -272,7 +272,8 @@ The WHERE clause is used to filter records and retrieve only the rows that satis
 
 Syntax
 
-<img width="211" height="77" alt="{1DEFEAB8-5F01-4F1E-AE6C-FD221F44E53E}" src="https://github.com/user-attachments/assets/13e41db8-fd80-4515-ab3d-56f0f0aaf0e1" />
+<img width="205" height="65" alt="{5D2AB00F-BBAB-40E4-8B03-C5F496259EBC}" src="https://github.com/user-attachments/assets/3e303848-4386-46b8-a8b8-d137a34e2683" />
+
 
 Example:
 
@@ -286,6 +287,8 @@ The GROUP BY clause is used to group rows that have the same values in specified
 Syntex:
 
 <img width="361" height="76" alt="{F13DFDD3-F23F-4CFA-868F-22A4112109E2}" src="https://github.com/user-attachments/assets/9490c20f-e5a0-4c75-a54a-7e54198a7605" />
+
+Example:
 
 <img width="280" height="220" alt="{524BB390-0063-42A1-BFA2-E22C6E69D85B}" src="https://github.com/user-attachments/assets/1e1f620d-2abe-4440-b24b-11f2d1649bb6" />
 
