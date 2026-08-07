@@ -224,7 +224,7 @@ DQL is used to retrieve (fetch) data from a database.
 
 SELECT
 
-The SELECT command in SQL is used to retrieve data from one or more tables in a database.
+The SELECT command in SQL is used to retrieve data from one or more tables in a database. It allows you to select specific columns or all columns and can be combined with clauses like WHERE, ORDER BY, and GROUP BY to filter, sort, and organize the retrieved data.
 
 Syntax
 
@@ -236,7 +236,7 @@ Examples
 
 syntex
 
-SELECT * FROM Employees;
+<img width="218" height="20" alt="{B338133A-8EF0-41FA-8384-0F589B3F38CD}" src="https://github.com/user-attachments/assets/05a4d123-3a88-4653-9819-cd42f790e3b9" />
 
 
 Example:
@@ -248,11 +248,23 @@ Example:
 
 syntex
 
-SELECT EmployeeID, Name, Salary
-FROM Employees;
+<img width="281" height="51" alt="{E669160D-CB70-4D63-AC08-2254C0F0B808}" src="https://github.com/user-attachments/assets/f53b8892-f2f9-4064-83c5-137315b33e41" />
 
 Example:
 
+<img width="276" height="263" alt="{2F2F814D-3265-4548-AE28-F1AAECDA17E4}" src="https://github.com/user-attachments/assets/349cfda7-4c63-49a2-940d-42203ed57a47" />
+
+2.## FROM
+
+The FROM clause is used to specify the table from which data is retrieved.
+
+Syntax
+
+<img width="173" height="63" alt="{9FB42D0E-640F-4D24-86FF-82B9FA81585E}" src="https://github.com/user-attachments/assets/7aac4727-cf68-4fa7-80eb-a64e6b661d45" />
+
+Example
+
+<img width="202" height="36" alt="{977AD601-BBBA-4FD9-980A-CA7544FC0069}" src="https://github.com/user-attachments/assets/bcafd030-dd8a-4238-9414-e4b28a4eebaf" />
 
 
 
