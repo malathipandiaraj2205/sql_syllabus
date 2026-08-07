@@ -328,6 +328,30 @@ Example:
 
 <img width="285" height="84" alt="{563191C0-82A2-476F-8758-E4252DAB8D97}" src="https://github.com/user-attachments/assets/7ac87344-32e4-4add-88a4-aaf9f9325c34" />
 
+## Aggregate Functions:
+
+Aggregate functions perform calculations on a set of values and return a single result.
+
+## Common Aggregate Functions:
+
+1.     COUNT()          Counts the number of rows
+2.     SUM()	           Returns the total sum
+3.     AVG()	           Returns the average value
+4.     MAX()	           Returns the highest value
+5.     MIN()	           Returns the lowest value
+ 
+1. COUNT()
+
+Counts the number of records.
+
+Syntex:
+
+![Uploading {D9AB156B-A94F-4831-A227-1D0DC631D791}.png…]()
+
+Example:
+
+<img width="191" height="58" alt="{1B2916B6-CD0E-46FC-B1A2-3CFF6F0613B3}" src="https://github.com/user-attachments/assets/9c80bb98-5fac-45ef-9094-2570a5f98fa8" />
+
 
 
 
