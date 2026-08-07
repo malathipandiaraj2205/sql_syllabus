@@ -292,6 +292,42 @@ Example:
 
 <img width="280" height="220" alt="{524BB390-0063-42A1-BFA2-E22C6E69D85B}" src="https://github.com/user-attachments/assets/1e1f620d-2abe-4440-b24b-11f2d1649bb6" />
 
+5.## HAVING:
+
+The HAVING clause is used to filter groups created by the GROUP BY clause. It is similar to WHERE, but WHERE filters rows, while HAVING filters grouped data.
+
+Syntex:
+
+<img width="340" height="94" alt="{1AAB8CD4-D4A7-4B03-B81E-6B0BAC52D13A}" src="https://github.com/user-attachments/assets/a87c9e33-dcf0-420a-a1f1-313ec7429b43" />
+
+Example:
+
+<img width="270" height="227" alt="{59FF5478-45BC-4A99-862C-51FD61E8E746}" src="https://github.com/user-attachments/assets/fe71214c-31f4-49e6-99fa-9994bd191f03" />
+
+6.## ORDER BY :
+
+The ORDER BY clause is used to sort the result set in ascending (ASC) or descending (DESC) order.
+
+Syntax
+
+<img width="327" height="72" alt="{1C5F2CF3-6C1A-4CBE-B85B-F0D469EA2B93}" src="https://github.com/user-attachments/assets/14cd7b92-662e-40fb-80a9-c4dee3e12183" />
+
+Example:
+
+<img width="356" height="223" alt="{3A9C94E9-5A38-43CF-8B54-EC088F608E7E}" src="https://github.com/user-attachments/assets/b7b0f8f1-3853-4734-9eba-e6f0a3e60f11" />
+
+7.## LIMIT:
+
+The LIMIT clause is used to restrict the number of rows returned by a query.
+
+Syntax
+
+<img width="293" height="96" alt="{CCD21F52-3444-4E64-A733-388257BD676B}" src="https://github.com/user-attachments/assets/03b1bc0c-82c9-4c5f-9e88-4ca906aacb9c" />
+
+Example:
+
+<img width="285" height="84" alt="{563191C0-82A2-476F-8758-E4252DAB8D97}" src="https://github.com/user-attachments/assets/7ac87344-32e4-4add-88a4-aaf9f9325c34" />
+
 
 
 
