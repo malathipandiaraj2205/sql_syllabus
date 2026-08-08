@@ -535,8 +535,59 @@ Syntex:
 
 <img width="420" height="214" alt="{4EF91A19-42A8-4159-A1DC-D885E4FFE944}" src="https://github.com/user-attachments/assets/97880c57-a7bf-4c09-bff8-0aa72de9e749" />
 
+## CTE (Common Table Expression):
 
+A CTE (Common Table Expression) is a temporary result set that can be referenced within a SELECT, INSERT, UPDATE, or DELETE statement.
 
+CTEs make complex queries easier to read and maintain.
 
+## Advantages of CTE:
 
+● Improves query readability.
+● Breaks complex queries into simpler parts.
+● Can be referenced multiple times in the same query.
+● Useful for recursive queries.
 
+## Difference Between Subquery and CTE:
+
+| Subquery                    | CTE                              |
+| --------------------------- | -------------------------------- |
+| Written inside a query      | Defined using  WITH              |
+| Harder to read when complex | Easier to read and maintain      |
+| Used once                   | Can be referenced multiple times |
+
+Syntex:
+
+<img width="415" height="220" alt="{240A64AD-F662-4F3A-8122-3F048F79ED2C}" src="https://github.com/user-attachments/assets/ce10757b-da65-4048-958a-1dc4bc043294" />
+
+Example:
+
+<img width="474" height="252" alt="{60408734-3DD2-44D9-BC8B-61DC62337A3E}" src="https://github.com/user-attachments/assets/60b27137-9ab7-4291-a411-05552aff6d8e" />
+
+## Window Function Definition :
+
+A Window Function is a SQL function that performs calculations across a set of table rows related to the current row without grouping the rows into a single output row.
+
+Examples:
+
+● ROW_NUMBER ()
+● RANK ()
+● DENSE_RANK ()
+● LAG ()
+● LEAD ()
+● SUM ()
+● AVG ()
+
+Syntex:
+
+<img width="436" height="113" alt="{F7DC3A77-BF85-4063-8534-8B13827BA81E}" src="https://github.com/user-attachments/assets/588d7a88-9028-47b8-b96d-56f992d13bed" />
+
+Example:
+
+<img width="409" height="260" alt="{9541291A-2C2B-406B-84DE-5E0FB81F4393}" src="https://github.com/user-attachments/assets/e5498eda-daef-4cec-a142-dd9ad792439f" />
+
+## Advantages of CTE:
+● Improves query readability.
+● Makes complex queries easier to understand.
+● Can be reused within the same query.
+● Supports recursive queries.
