@@ -413,6 +413,26 @@ Comparison operators are used to compare two values in a WHERE clause.
 |   >=         | Greater than or equal to |    salary >= 50000   |
 |   <=         | Less than or equal to    |    salary <= 50000   |
 
+Syntex:
+
+<img width="212" height="52" alt="{0A7166FE-283A-4383-A2D6-5C920AC35A26}" src="https://github.com/user-attachments/assets/6b60944e-b7f2-46d9-b2b3-9dc1cad8ceed" />
+
+Example:
+
+<img width="514" height="241" alt="{2DD08276-A25F-411D-BE55-C8CD430A382E}" src="https://github.com/user-attachments/assets/d3540e0d-1fd2-4de2-bd14-b1a00b26b3e8" />
+
+
+## ARITHMATIC OPERATORS:
+
+Arithmetic operators are used to perform mathematical calculations on numeric values.
+
+| Operator | Description         | Example         |
+| -------- | ------------------- | --------------- |
+|   +      | Addition            | salary + 1000   |
+|   -      | Subtraction         | salary - 1000   |
+|   *      | Multiplication      | salary * 2      |
+|   /      | Division            | salary / 2      |
+|   %      | Modulus (remainder) | salary % 1000   |
 
 
 
