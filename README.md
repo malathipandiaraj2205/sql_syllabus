@@ -571,11 +571,17 @@ A Window Function is a SQL function that performs calculations across a set of t
 Examples:
 
 ● ROW_NUMBER ()
+
 ● RANK ()
+
 ● DENSE_RANK ()
+
 ● LAG ()
+
 ● LEAD ()
+
 ● SUM ()
+
 ● AVG ()
 
 Syntex:
