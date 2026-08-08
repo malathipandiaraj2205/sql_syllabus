@@ -531,10 +531,10 @@ Example:
 
 A Subquery is a query inside another SQL query. It is also called a nested query.
 
-Example:
-
+Syntex:
 
 <img width="420" height="214" alt="{4EF91A19-42A8-4159-A1DC-D885E4FFE944}" src="https://github.com/user-attachments/assets/97880c57-a7bf-4c09-bff8-0aa72de9e749" />
+
 
 
 
