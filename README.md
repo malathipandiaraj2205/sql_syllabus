@@ -435,5 +435,51 @@ Arithmetic operators are used to perform mathematical calculations on numeric va
 |   %      | Modulus (remainder) | salary % 1000   |
 
 
+Syntex:
+
+<img width="351" height="88" alt="{B8DB312E-BEA6-4D6E-AD5E-45A22FE72F7C}" src="https://github.com/user-attachments/assets/28f42d87-3036-4ed6-a4a6-05e7bd1343ce" />
+
+Example:
+
+<img width="327" height="215" alt="{8BB98BD7-A841-4AC0-BE8B-184A7B4DAB1C}" src="https://github.com/user-attachments/assets/8fac69f6-7f45-44d6-9343-db3533bf93bd" />
+
+## LIKE OPERATOR:
+
+The LIKE operator is used to search for a specified pattern in a column.
+
+| Wildcard | Meaning                                  |
+| -------- | ---------------------------------------- |
+|    %     | Represents zero, one, or many characters |
+|    _     | Represents exactly one character         |
+
+| Pattern   | Meaning                       |
+| --------- | ----------------------------- |
+| R%        | Starts with R                 |
+| %a        | Ends with a                   |
+| %vi%      | Contains vi                   |
+| R_        | R followed by one character   |
+| R____     | R followed by four characters |
+
+Syntex:
+
+<img width="437" height="79" alt="{E946255D-8A6C-4E9D-8989-A67D9A160CF4}" src="https://github.com/user-attachments/assets/e2f6f044-4dda-452c-8df3-c02988b599c3" />
+
+Exmple:
+
+<img width="478" height="221" alt="{16E2040C-12EC-42A1-8E46-639911C37730}" src="https://github.com/user-attachments/assets/36198d05-d1b2-4cfc-a095-d42c475a9ff6" />
+
+## CASE FUNCTION
+
+The CASE function is used to apply conditions and return different values based on those conditions. It works like an IF-ELSE statement.
+
+Syntex:
+
+<img width="445" height="191" alt="{C8E934E7-070E-4243-AD04-2ECE48B8B91E}" src="https://github.com/user-attachments/assets/17aa7afd-547a-4465-9818-12bcf2bab35b" />
+
+Example:
+
+<img width="527" height="223" alt="{E364C04C-8445-4999-A0C2-3DFD41D5E040}" src="https://github.com/user-attachments/assets/9e6634df-30a8-4c74-95af-003074be4f3b" />
+
+
 
 
