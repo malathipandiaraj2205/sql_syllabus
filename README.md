@@ -480,6 +480,63 @@ Example:
 
 <img width="527" height="223" alt="{E364C04C-8445-4999-A0C2-3DFD41D5E040}" src="https://github.com/user-attachments/assets/9e6634df-30a8-4c74-95af-003074be4f3b" />
 
+## JOINS:
+
+JOIN is used to combine rows from two or more tables based on a related column.
+
+Types of Joins
+1.INNER JOIN
+2.LEFT JOIN
+3.RIGHT JOIN
+
+1. ## INNER JOIN
+
+Returns only matching records from both tables.
+
+Syntex:
+
+<img width="476" height="68" alt="{CC900381-BC38-449D-AAD2-7B8E7A8EE3E3}" src="https://github.com/user-attachments/assets/987d4bf4-d40d-456a-966b-75adc15e2d3b" />
+
+Example:
+
+<img width="500" height="241" alt="{08DD842F-39AF-4262-BC9D-51330FC47EF6}" src="https://github.com/user-attachments/assets/e6675860-f970-4899-bb9b-e4966c7e91fc" />
+
+
+2.## LEFT JOIN:
+
+Returns all records from the left table and matching records from the right table.
+
+Syntex:
+
+
+<img width="513" height="74" alt="{B14A94D3-5E71-4EAC-93F4-3240EC74D0F2}" src="https://github.com/user-attachments/assets/abb2043a-9a2c-48e6-8b15-386707a863dd" />
+
+Example:
+
+<img width="510" height="222" alt="{8D9B4B5F-3A1F-4F5A-B8D1-A3AC18853727}" src="https://github.com/user-attachments/assets/db9c1d9d-af42-4d2e-b442-52ba19d5c6a2" />
+
+3.## RIGHT JOIN
+
+Returns all records from the right table and matching records from the left table.
+
+Syntex:
+
+<img width="461" height="62" alt="image" src="https://github.com/user-attachments/assets/eadf92d0-7098-470e-ac54-22fd264ffd66" />
+
+Example:
+
+<img width="667" height="236" alt="{533F7AB8-8280-4945-AA89-7E40EBA0CF08}" src="https://github.com/user-attachments/assets/963373a8-b361-4f0f-b98a-7ad20b86d7dd" />
+
+## SUBQUERIES:
+
+A Subquery is a query inside another SQL query. It is also called a nested query.
+
+Example:
+
+
+<img width="420" height="214" alt="{4EF91A19-42A8-4159-A1DC-D885E4FFE944}" src="https://github.com/user-attachments/assets/97880c57-a7bf-4c09-bff8-0aa72de9e749" />
+
+
 
 
 
