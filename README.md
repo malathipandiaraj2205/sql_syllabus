@@ -587,7 +587,7 @@ Example:
 <img width="409" height="260" alt="{9541291A-2C2B-406B-84DE-5E0FB81F4393}" src="https://github.com/user-attachments/assets/e5498eda-daef-4cec-a142-dd9ad792439f" />
 
 ## Advantages of CTE:
-● Improves query readability.
-● Makes complex queries easier to understand.
-● Can be reused within the same query.
-● Supports recursive queries.
+1. Improves query readability.
+2. Makes complex queries easier to understand.
+3. Can be reused within the same query.
+4. Supports recursive queries.
