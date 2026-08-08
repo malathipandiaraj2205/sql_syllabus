@@ -340,9 +340,10 @@ Aggregate functions perform calculations on a set of values and return a single 
 4.     MAX()	           Returns the highest value
 5.     MIN()	           Returns the lowest value
  
-1. COUNT()
+## AVG():
 
-Counts the number of records.
+AVG() is an aggregate function used to calculate the average value of a numeric column.
+
 
 Syntex:
 
@@ -359,9 +360,9 @@ Example:
 Logical Operators in SQL are used to combine multiple conditions in a query.
 
 Operator	Meaning:
-              1                 AND	        All conditions must be true
-              2                 OR	         Any one condition can be true
-              3                 NOT	        Reverses the condition
+   1.                 AND	        All conditions must be true
+   2.                 OR	         Any one condition can be true
+   3.                 NOT	        Reverses the condition
 
 1.## AND Operator
 
