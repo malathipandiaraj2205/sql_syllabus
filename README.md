@@ -354,5 +354,50 @@ Example:
 <img width="191" height="58" alt="{1B2916B6-CD0E-46FC-B1A2-3CFF6F0613B3}" src="https://github.com/user-attachments/assets/9c80bb98-5fac-45ef-9094-2570a5f98fa8" />
 
 
+## LOGICAL OPERATOR:
+
+Logical Operators in SQL are used to combine multiple conditions in a query.
+
+Operator	Meaning:
+              1                 AND	        All conditions must be true
+              2                 OR	         Any one condition can be true
+              3                 NOT	        Reverses the condition
+
+1.## AND Operator
+
+Returns records only if all conditions are TRUE.
+
+Syntex:
+
+<img width="367" height="75" alt="{8E8B50AE-A185-4D0F-9AF4-7AFF8ED674CA}" src="https://github.com/user-attachments/assets/8bdbae0f-b7f1-4b13-a395-fb1e74b1b0de" />
+
+example:
+
+<img width="472" height="229" alt="{90C9AED8-CFE6-4A41-B7E4-A65B1BC992D2}" src="https://github.com/user-attachments/assets/d88a484d-c90f-4fa0-ba5c-343d0a86593e" />
+
+2.## OR OPERATOR:
+
+Returns records if at least one condition is TRUE.
+
+Syntex:
+
+<img width="363" height="68" alt="{1787A1AE-F6BB-4F50-A635-788D89DD8EBB}" src="https://github.com/user-attachments/assets/3e8938a3-281c-44e0-9684-627ba215ebee" />
+
+Example:
+
+<img width="466" height="221" alt="{EFCA824B-FD52-4BC2-AC11-14BC00129171}" src="https://github.com/user-attachments/assets/beaef650-c278-4b8a-a8ea-9780950e1668" />
+
+3.## NOT OPERATOR:
+
+Returns records where the condition is NOT TRUE.
+
+Syntex:
+
+<img width="258" height="70" alt="{A6A8787D-C728-4B17-81CE-C2DC6FB06AF9}" src="https://github.com/user-attachments/assets/b36c54fd-40fb-46d7-b333-8dc997388d59" />
+
+Example:
+
+<img width="495" height="201" alt="{B2BC7743-67FC-4A10-99CF-4974BF140255}" src="https://github.com/user-attachments/assets/cd3795a4-440c-44d7-992f-fee011aba3e2" />
+
 
 
