@@ -544,8 +544,11 @@ CTEs make complex queries easier to read and maintain.
 ## Advantages of CTE:
 
 ● Improves query readability.
+
 ● Breaks complex queries into simpler parts.
+
 ● Can be referenced multiple times in the same query.
+
 ● Useful for recursive queries.
 
 ## Difference Between Subquery and CTE:
