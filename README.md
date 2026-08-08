@@ -400,5 +400,20 @@ Example:
 
 <img width="495" height="201" alt="{B2BC7743-67FC-4A10-99CF-4974BF140255}" src="https://github.com/user-attachments/assets/cd3795a4-440c-44d7-992f-fee011aba3e2" />
 
+## COMPARISON OPERATOR:
+
+Comparison operators are used to compare two values in a WHERE clause.
+
+| Operator     | Meaning                  | Example              |
+| ------------ | ------------------------ | -------------------- |
+|   =          | Equal to                 |    salary = 50000    |
+|   != or <>   | Not equal to             |    department <> HR  |
+|   >          | Greater than             |    salary > 50000    |
+|   <          | Less than                |    salary < 50000    |
+|   >=         | Greater than or equal to |    salary >= 50000   |
+|   <=         | Less than or equal to    |    salary <= 50000   |
+
+
+
 
 
